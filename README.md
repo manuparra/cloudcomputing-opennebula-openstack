@@ -19,8 +19,7 @@ Por: Manuel Parra (manuelparra@decsai.ugr.es)
 
 ## Descarga:
 
-Todo el contenido se puede obtener aquí: [Diapositivas HTML](https://github.com/manuparra/cloudcomputing-opennebula-openstack/archive/master.zip) [Diapositivas PDF](imgs/GDG_cloudcomputing_opennebula_openstack.pdf)
-
+Todo el contenido se puede obtener aquí: [Diapositivas HTML](https://github.com/manuparra/cloudcomputing-opennebula-openstack/archive/master.zip) [Diapositivas PDF](cloudcomputing-opennebula-openstack/imgs/GDG_cloudcomputing_openstack_opennebula.pdf)
 
 
 ## Pantallas:
