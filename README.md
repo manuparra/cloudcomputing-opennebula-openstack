@@ -17,5 +17,13 @@ Por: Manuel Parra (manuelparra@decsai.ugr.es)
 - OpenStack vs OpenNebula
 - Un ejemplo de uso de OpenNebula:  Trumpgram
 
-## Pantallas:
+## Algunas pantallas:
+
+![Slide1](imgs/slide1.png)
+
+![Slide2](imgs/slide1.png)
+
+Todo el contenido se puede obtener aquí: [Diapositivas](index.html)
+
+
 
